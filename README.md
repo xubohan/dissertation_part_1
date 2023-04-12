@@ -3,7 +3,7 @@
 # Download [glzip](https://github.com/jakeKonrad/pyglzip)
 follows the instructions in the glzip
 
-then manually modified the src/lib.rs and glzip/lib.py
+then manually modify or replace glzip files [src/lib.rs, glzip/lib.py] in the original glzip
 
 put the python files in the 'examples' folder
 
